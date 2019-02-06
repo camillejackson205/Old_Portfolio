@@ -1,0 +1,15 @@
+.about-section {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+background-color: $primary;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  p {
+    margin-bottom: 5rem;
+  }
+}
